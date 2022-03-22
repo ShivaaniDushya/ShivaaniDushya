@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **trending technologies**
 
-- 👨‍💻 Portfolio Link [https://vigorous-jepsen-02cf6e.netlify.app/](https://vigorous-jepsen-02cf6e.netlify.app/)
+- 👨‍💻 Portfolio Link [https://shivaani.live/](https://shivaani.live/)
 
 - 📝 I regularly write articles on [https://medium.com/@rsdushya](https://medium.com/@rsdushya)
 
