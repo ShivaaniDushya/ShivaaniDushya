@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivaani Dushya Rajkumar</h1>
-<h3 align="center">I am a Software Engineering Undergraduate at SLIIT and a Software Engineering Intern at Pearson Lanka (pvt) ltd. My interests are in Full Stack Development, Mobile application Development and UI/UX Designing. I Love being a Mathematics Enthusiast. Skilled in Public Speaking.</h3>
+<h3 align="center">I am a Software Engineering Undergraduate at SLIIT and a Software Engineering Intern at Pearson Lanka (pvt) ltd. My interests are in Full Stack Development and UI/UX Designing. I am skilled in Public Speaking and Fast Learning. I am a Microsoft Learn Student Ambassador.</h3>
 
 - 🌱 I’m currently learning **trending technologies**
 
