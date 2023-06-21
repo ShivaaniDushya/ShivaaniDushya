@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **trending technologies**
 
-- 👨‍💻 Portfolio Link [https://shivaani.live/](https://shivaani.live/)
-
 - 📝 I regularly write articles on [https://medium.com/@rsdushya](https://medium.com/@rsdushya)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shivaani-dushya-rajkumar/**
