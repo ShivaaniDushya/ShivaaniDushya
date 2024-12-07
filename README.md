@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivaani Dushya Rajkumar</h1>
-<h3 align="center">I am a Software Engineering Undergraduate at SLIIT. My interests are in Full Stack Development and UI/UX Designing. I am skilled in Public Speaking and Fast Learning. I am a Microsoft Learn Student Ambassador.</h3>
+<h3 align="center">I am a Software Engineering Graduate and a Full Stack Developer. My interests are in Full Stack Development and UI/UX design. I am skilled in Public Speaking and Fast Learning</h3>
 
 - 🌱 I’m currently learning **trending technologies**
 
